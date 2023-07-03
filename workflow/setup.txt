@@ -1,0 +1,3 @@
+1.ssh-keygen
+2.config usename and e-mail
+
